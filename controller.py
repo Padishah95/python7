@@ -1,7 +1,7 @@
-from import_data import import_data
-from export_data import export_data
-from print_data import print_data
-from search_data import search_data
+from import1 import import_data
+from export1 import export_data
+from print1 import print_data
+from searchdata import search_data
 
 def greeting():
     print("Добро пожаловать в телефонный справочник!")
